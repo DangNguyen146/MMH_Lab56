@@ -1,0 +1,447 @@
+logo
+Search Xhcode tools
+Convert tools
+Beautify Tools
+JSON Formatter
+More
+Share 
+
+MD2 Hash Generator
+MD4 Hash Generator
+MD5 Hash Generator
+NTLM Hash Generator
+SHA1 Hash Generator
+SHA2 Hash Generator
+SHA224 Hash Generator
+SHA256 Hash Generator
+SHA384 Hash Generator
+SHA512 Hash Generator
+SHA512/224 Hash Generator
+SHA512/256 Hash Generator
+SHA3-224 Hash Generator
+SHA3-256 Hash Generator
+SHA3-384 Hash Generator
+SHA3-512 Hash Generator
+CRC-16 Hash Generator
+CRC-32 Hash Generator
+Shake-128 Hash Generator
+Shake-256 Hash Generator
+MD6 Hash Generator
+Whirlpool Hash Generator
+SHAKE-256 Hash Generator
+Enter the plain or Cipher Text:
+history
+ 
+folder_open
+ 
+save
+ 
+delete_outline
+ 
+content_copy
+Sample
+đăng nguyễn
+Size : 14 B, 11 Characters
+Output Bits
+512
+Auto
+Result of SHAKE-256 Generated Hash:
+content_copy
+a05601d6b2967d9196c466ef7a02508726e477bcb7fc3c910cbdda1a611545fce1e23d39cc2c9458de33976e67cd8c439e6733eebb33bf34cc82aa0b00b3e9d1
+Size : 128 B, 128 Characters
+SHAKE-256 HASH Generator Online
+About
+SHAKE-256 hash function generator generates a SHAKE-256 hash which can be used as secure 128 Hexadecimal password as default used for optimal asymmetric encryption padding.
+
+It will generate 128 characters (suppots output bits) of SHAKE-256 hash string and it can not be reversible.
+
+Use output bits input field to increase the hash function output to make it more secure. Default output bits are 512 which generates 128 hexadecimal digits.
+
+How to Generate SHAKE-256 Hash?
+Step 1: Enter the Plain or Cypher Text.
+Step 2: Click on Generate SHAKE-256 HASH Online.
+Step 3: Use Copy to Clipboard functionality to copy the generated SHAKE-256 hash.
+What is SHAKE-256 HASH?
+SHAKE-256 is part of SHA-3 (Secure Hash Algorithm 3) released by National Institute of Standards and Technology (NIST) on Aug 2015.
+
+To learn more about SHAKE-256 Hash, please visit SHA3.
+
+Example of SHAKE-256 Hash
+Plain dataTry it.
+Geico
+Output: Generated SHAKE-256 Hash with 256 output bits.
+
+7be13f01c3a2542f7f09ea2b59296af39deb594cc62a66442f19bc69bf4166b7
+For Advanced Users
+External URL
+Load External URL in Browser URL like this https://xhcode.com/shake-256-hash-generator.html?url=external-url
+
+https://xhcode.com/shake-256-hash-generator.html?url=https://gist.githubusercontent.com/cbmgit/a99b00d7f63bc04e5157891e986400fe/raw/HashSample.txt
+Data as Parameter
+Load Data in Browser URL input like this https://xhcode.com/shake-256-hash-generator.html?input=inputdata
+
+https://xhcode.com/shake-256-hash-generator.html?input=Progressive
+logo
+XHCODE
+FREE ONLINE TOOLS FOR DEVELOPERS
+
+String Utilities
+Upside Down Text
+Random Word Generator
+NTLM Hash Generator
+Password Generator
+String Builder
+Number to Word Converter
+Word to Number Converter
+WORD COUNTER
+Word Repeater
+Reverse String
+String to Hex Converter
+Hex to String Converter
+String to Binary Converter
+Binary to String Converter
+Case Converter
+Delimited Text Extractor
+Remove Accents
+Remove Duplicate Lines
+Remove Empty Lines
+Remove Extra Spaces
+Remove Whitespace
+Remove Line Breaks
+Remove Lines Containing
+Sort Text Lines
+Word Sorter
+Word Frequency Counter
+Text Repeater
+Remove Punctuation
+Beautifiers
+JSON Beautifier
+CSS Beautifier
+XML Beautifier
+HTML Beautifier
+Javascript Beautifier
+YAML Beautifier
+C# Beautifier
+Java Beautifier
+C Beautifier
+C++ Beautifier
+TypeScript Formatter
+SQL Formatter
+Babel Formatter
+Markdown Formatter
+MDX Formatter
+LESS Beautifier
+SCSS Beautifier
+GraphQL Beautifier
+PHP Beautifier
+Python Beautifier
+Perl Beautifier
+Ruby Beautifier
+Angular Formatter
+Lua Beautifier
+XAML Beautifier
+Random Tools
+Random IP Address
+Random Time Generator
+Random UUID Generator
+Random JSON Generator
+Random XML Generator
+Random Data from Regex
+Random CSV Generator
+Random Number Generator
+Random Integer Generator
+Random Prime Generator
+Random Date Generator
+Random Bitmap Generator
+Random Name Picker
+Text Lines shuffler
+MAC Address Generator
+Random Hex Generator
+Random TSV Generator
+Random Strings Generator
+Random Fraction Generator
+Random Integer Range Generator
+Random Binary Generator
+Random Byte Generator
+Random Decimal Generator
+Number Utilities
+All Numbers Converter
+Decimal to Binary
+Decimal to Octal
+Binary to Decimal
+Binary to Hex
+Binary to Octal
+Hex to Decimal
+Hex to Binary
+Hex to Octal
+Octal toDecimal
+Octal to Binary
+Octal to Hex
+Binary to Text
+Text to Binary
+ASCII to Text
+Text to ASCII
+Hex to IP
+IP to Hex
+Binary to IP
+IP to Binary
+Decimal to IP
+IP to Decimal
+Octal to IP
+IP to Octal
+Bitwise Calculator
+Reverse Hex
+XOR Calculator
+AND Calculator
+NAND Calculator
+OR Calculator
+NOR Calculator
+XNOR Calculator
+IPV6 to Binary
+CryptoGraphy Tools
+Encryption-Decryption
+HMAC Generator
+MD2 Hash Generator
+MD4 Hash Generator
+MD5 Hash Generator
+MD6 Hash Generator
+NTLM Hash Generator
+SHA1 Hash Generator
+SHA2 Hash Generator
+SHA224 Hash Generator
+SHA256 Hash Generator
+SHA384 Hash Generator
+SHA512 Hash Generator
+SHA512/224 Hash Generator
+SHA512/256 Hash Generator
+SHA3-224 Hash Generator
+SHA3-256 Hash Generator
+SHA3-384 Hash Generator
+SHA3-512 Hash Generator
+CRC-16 Hash Generator
+CRC-32 Hash Generator
+Shake-128 Hash Generator
+Shake-256 Hash Generator
+Whirlpool Hash Generator
+Wordpress Password Hash Generator
+JSON Converters
+JSON to JAVA
+JSON to XML
+JSON to YAML
+JSON to CSV
+JSON to TSV
+JSON to Text
+JSON to Excel
+JSON to HTML
+Programming Editors
+XML Editor
+JSON Editor
+ONLINE Editor
+JAVA Editor
+C# Editor
+Actionscript Editor
+Markdown Editor
+Validators
+CSS Validator
+JAVASCRIPT Validator
+JSON Validator
+JSON5 Validator
+XML Validator
+YAML Validator
+CSV Tools
+CSV Viewer
+CSV to XML/JSON
+CSV to XML
+CSV to JSON
+CSV to HTML
+CSV to TSV
+CSV to MULTILINE DATA
+CSV to SQL
+CSV to Excel
+Minifier
+JSON Minify
+XML Minify
+Minify JS
+CSS Minify
+SQL Minifier
+Minify HTML
+Lua Minifier
+Syntax Highlighting
+JSON Syntax Highlighting
+XML Highlighter
+XML Pretty Print
+HTML Pretty Print
+Code Highlighter
+Escape Unescape
+HTML Escape Unescape
+XML Escape Unescape
+Java Escape Unescape
+C# Escape Unescape
+Javascript Escape Unescape
+CSV Escape Unescape
+SQL Escape Unescape
+JSON Escape Unescape
+Un-Google Link
+CSS Tools
+CSS Beautifier
+CSS to LESS
+CSS to SCSS
+CSS to SASS
+CSS to Stylus
+Stylus Compiler
+Stylus to CSS
+Stylus to LESS
+Stylus to SCSS
+Stylus to SASS
+Parsers
+URL Parser
+JSON Parser
+XML Parser
+Viewers
+JSON Viewer
+XML Viewer
+MXML Viewer
+HTML Viewer
+JAVASCRIPT Viewer
+RSS Viewer
+OPML Viewer
+CSV Viewer
+BBCode Viewer
+Markdown Viewer
+Utility
+JSON Path Tester
+JSON Minifier
+File Difference
+JSON Diff
+XML Diff
+JSON Deserialize Online
+JSON Serialize Online
+JSON Stringify Online
+XML Stringify Online
+String to JSON Online
+JavaScript Obfuscator
+YAML Converters
+YAML Converter
+YAML to XML
+YAML to JSON
+YAML to CSV
+YAML to Excel
+SQL Converters
+SQL to CSV Converter
+SQL to JSON Converter
+SQL to XML Converter
+SQL to YAML Converter
+SQL to HTML Converter
+XML Converters
+XML to JAVA
+XML to JSON
+XML to YAML
+XML to CSV
+XML to TSV
+XML to Text
+XML-XSL Transform
+XML to HTML
+XML to Excel
+Converters
+Image to Base64
+Base64 to Image
+Date Calculater
+EXCEL to HTML
+EXCEL to XML
+EXCEL to JSON
+OPML to JSON
+Word to HTML
+Online Tableizer
+Image Tools
+JPG to PNG Converter
+JPG to BMP Converter
+JPG to GIF Converter
+BMP to PNG Converter
+BMP to JPG Converter
+BMP to GIF Converter
+GIF to PNG Converter
+GIF to JPG Converter
+GIF to BMP Converter
+PNG to JPG Converter
+PNG to BMP Converter
+PNG to GIF Converter
+Encode and Decode
+Base32 Encode
+Base32 Decode
+Base58 Encode
+Base58 Decode
+Base64 Encode
+Base64 Decode
+URL Encode A String
+URL Decode A String
+JSON URL Encode
+JSON URL Decode
+HTML Encode
+HTML Decode
+XML URL Encoding
+XML URL Decoding
+UTF8 Converter
+UTF8 Decode
+JSON Decode Online
+HTML Converters
+HTML Stripper
+HTML to CSV Converter
+HTML to TSV Converter
+HTML to PHP Converter
+HTML to CSV
+HTML to JSON
+HTML to XML
+HTML to YAML
+HTML to Text
+Text to HTML Entities
+HTML Entities to Text
+HTML to Markdown
+Markdown to HTML
+PUG to HTML Converter
+HTML to PUG Converter
+JADE to HTML Converter
+HTML to JADE Converter
+HTML to BBCode Converter
+BBCode to HTML Converter
+Unit Converter
+Length Converter
+Weight Converter
+Volume Converter
+Area Converter
+Temperature Converter
+Density Converter
+Electric Current Converter
+Speed Converter
+Angle Converter
+Bytes/Bits Converter
+Energy Converter
+Force Converter
+Fuel Converter
+Mass Converter
+Power Converter
+Pressure Converter
+Time Converter
+Astronomical Converter
+Frequency Converter
+Unix Timestamp Converter
+Color Converters
+HEX to Pantone Converter
+RGB to Pantone Converter
+HSV to Pantone Converter
+CMYK to Pantone Converter
+CMYK to HEX Converter
+CMYK to RGB Converter
+CMYK to HSV Converter
+HSV to HEX Converter
+HSV to RGB Converter
+HSV to CMYK Converter
+HEX to HSV Converter
+RGB to HEX Converter
+RGB to HSV Converter
+RGB to CMYK Converter
+HEX to RGB Converter
+HEX to CMYK Converter
+Other Tools
+Sharelink Generator
+© Copyright Xhcode 2021
+AboutFAQPrivacy PolicyContactHistory
